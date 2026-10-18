@@ -1,0 +1,120 @@
+இரண்டு சீன்களையும் தலா 15 வினாடிகளுக்குள் வரும்படி மாற்றியிருக்கிறேன். தமிழ் வசனங்கள், நக்கல் காமெடி, சிரிப்பு, கணிதச் சமன்பாடுகள், கேமரா இயக்கம், BGM, மற்றும் input-image character lock எல்லாமே சேர்க்கப்பட்டுள்ளன.
+
+### Scene 2 — கணக்குப் புலி (15 seconds)
+
+TITLE: KANAKKU PULI — TAMIL SARCASTIC COMEDY MEME
+DURATION: EXACTLY 15 SECONDS
+FORMAT: 16:9, 24 FPS, 4K cinematic realism
+SETTING: Pure black studio, soft overhead spotlight.
+
+CHARACTER REFERENCE IMAGE LOCK:
+Character A = FIRST uploaded reference image. Bald, heavy-built Tamil man wearing a black shirt.
+Character B = SECOND uploaded reference image. Lean Tamil man wearing a red shirt.
+
+STRICT IDENTITY PRESERVATION:
+Both characters must match their respective input reference images throughout every frame. Preserve faces, facial geometry, age, hairstyle, skin tone, clothing and body proportions. No morphing, aging, face swapping or identity drift.
+
+TIMELINE:
+
+0.0–3.5 SECONDS:
+Medium close-up of Character B. Glowing mathematical equations Σ, ∫, E = mc², ∂u/∂t and Navier–Stokes equations revolve above his head.
+
+RED SHIRT (anxiously):
+"இந்தக் கணக்கு முடிஞ்சா… நான் ஜெயிச்சிடுவேன்!"
+
+3.5–6.0 SECONDS:
+The equations spin faster. Character B clutches his head, looking confused and frightened.
+
+RED SHIRT (crying):
+"ஐயையோ! விடையே காணோமே!"
+
+6.0–10.5 SECONDS:
+Character A enters from the left. He studies Character B with a serious, professor-like expression, then raises one eyebrow.
+
+BLACK SHIRT (extremely sarcastic):
+"தலைக்கு மேல இவ்வளவு கணக்கு… வாழ்க்கையில மட்டும் ஏன்டா பூஜ்ஜியம்?"
+
+10.5–15.0 SECONDS:
+Character A pauses for half a second, points toward Character B and bursts into loud, exaggerated belly laughter.
+
+BLACK SHIRT:
+"ஹஹஹஹா! கணக்குப் புலியாம்! விடையைக் காணோம்!"
+
+Character B's eyes fill with tears. He looks toward the camera in despair while the equations continue revolving.
+
+CAMERA:
+0–3.5s: Medium close-up with slow push-in.
+3.5–6s: Slight camera orbit showing the mathematical equations.
+6–10.5s: Close-up of Character A delivering the punchline.
+10.5–15s: Two-shot showing the laughing black-shirt man and crying red-shirt man.
+
+AUDIO:
+Natural Tamil male voices, accurate lip-sync, original silent-comedy BGM with pizzicato strings, bassoon, muted tuba and woodblock percussion. Brief silence before the punchline. Loud sarcastic laughter afterward.
+
+NEGATIVE PROMPT:
+No character morphing, no aging, no identity drift, no face swaps, no outfit changes, no extra people, no random text, no unreadable equations, no watermarks.
+
+### Scene 3 — தோத்துட்டா தோத்துட்டா! (15 seconds)
+
+TITLE: THOTHTHUTTA THOTHTHUTTA — FINAL TAMIL COMEDY ROAST
+DURATION: EXACTLY 15 SECONDS
+FORMAT: 16:9, 24 FPS, 4K cinematic realism
+SETTING: Identical black studio, same overhead spotlight.
+
+CHARACTER REFERENCE IMAGE LOCK:
+Character A = FIRST uploaded input image. Bald, heavy-built Tamil man in a black shirt.
+Character B = SECOND uploaded input image. Lean Tamil man in a red shirt.
+
+ABSOLUTE CHARACTER CONSISTENCY:
+Use the exact original uploaded reference images. Maintain identical recognizable faces, body proportions, skin tones, ages, hairstyles and clothing. Never morph, age, beautify, swap or replace either character.
+
+TIMELINE:
+
+0.0–3.0 SECONDS:
+Character B looks devastated. Tears run down his cheeks. He wipes his eyes.
+
+RED SHIRT (crying):
+"இவ்வளவு முயற்சி பண்ணியும் தோத்துட்டேனே!"
+
+3.0–6.5 SECONDS:
+Character A gently places his hand on Character B's shoulder. He pretends to be a motivational speaker.
+
+BLACK SHIRT (serious, encouraging voice):
+"கவலைப்படாதடா! தோல்விதான் வெற்றிக்கு முதல் படி!"
+
+6.5–10.0 SECONDS:
+Character B looks up with hope. Character A slowly develops a mischievous smile, leans closer and delivers the sarcastic punchline.
+
+BLACK SHIRT (mockingly):
+"ஆனா நீ அந்த முதல் படியிலேயே வீடு கட்டிட்டியேடா!"
+
+10.0–13.5 SECONDS:
+Character A bursts into uncontrollable laughter, claps his hands and pats his stomach.
+
+BLACK SHIRT (laughing):
+"ஹஹஹஹா! தோத்துட்டா! தோத்துட்டா!"
+
+Character B begins crying harder and stares toward the camera.
+
+13.5–15.0 SECONDS:
+Character A gives Character B an exaggerated thumbs-up while continuing to laugh. Character B looks completely defeated.
+
+Final half-second: Freeze-frame on both faces.
+
+CAMERA:
+0–3s: Close-up of Character B's tearful face.
+3–6.5s: Medium two-shot, gentle dolly-in.
+6.5–10s: Dramatic close-up of Character A's sarcastic expression.
+10–13.5s: Wide two-shot showing exaggerated laughter and crying.
+13.5–15s: Tight symmetrical two-shot, freeze-frame ending.
+
+AUDIO:
+Natural Tamil dialogue with accurate lip-sync. Original quirky silent-comedy instrumental with pizzicato strings, bassoon, muted tuba and light percussion. Silence immediately before the sarcastic punchline, followed by loud human laughter.
+
+ENDING:
+Classic Tamil reaction-meme comedy timing. Pure black background. Character A laughing sarcastically, Character B crying dramatically. Abrupt freeze-frame.
+
+NEGATIVE PROMPT:
+No face morphing, no character swapping, no aging, no outfit changes, no extra people, no distorted anatomy, no subtitles, no logos, no watermarks.
+
+Best settings: 15 seconds per clip, 16:9, 24 FPS. Generate the two scenes separately using the same input images. For the best comic timing, keep a short pause before the black-shirt man's punchline, followed by exaggerated laughter.
